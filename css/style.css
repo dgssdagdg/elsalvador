@@ -630,6 +630,14 @@ body {
   .intro-content-title {
     font-size: 37px;
   }
+  .intro-content-text {
+    font-size: 17px;
+  }
+  .intro-left-img {
+    height: 200px;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
 }
 .intro-banner {
   width: 100%;
